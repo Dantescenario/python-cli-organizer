@@ -32,7 +32,7 @@ You need **Python 3** installed on your system.
 2.  **Verify the Script**
     Ensure the main file `organizer.py` is present.
 
-## 💡 How to Use
+## How to Use
 
 The script requires you to pass the target directory path as a command-line argument.
 
